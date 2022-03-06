@@ -4,6 +4,8 @@
 
 https://drive.google.com/file/d/1oP_4WZ-TbX5jh9lJIAD41uz1yPb8bhnS/view?usp=sharing
 
+password is : root123
+
 
 <h4>Download Oracle VM VirtualBox</h4>
 
