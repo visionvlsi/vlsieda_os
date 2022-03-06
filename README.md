@@ -2,7 +2,7 @@
 
 <h4>Here is the Ubuntu machine for EDA</h4>
 
-https://drive.google.com/drive/folders/19peVGwMaRqiPWkavA2KcKiSpDs6Id6Ir?usp=sharing
+https://drive.google.com/file/d/1oP_4WZ-TbX5jh9lJIAD41uz1yPb8bhnS/view?usp=sharing
 
 
 <h4>Download Oracle VM VirtualBox</h4>
